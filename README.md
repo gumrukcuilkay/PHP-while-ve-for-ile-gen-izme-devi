@@ -1,0 +1,1 @@
+# PHP-while-ve-for-ile-gen-izme-devi
