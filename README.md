@@ -1,1 +1,1 @@
-# PHP-while-ve-for-ile-gen-izme-devi
+# PHP, while ve for ile ucgen cizme
